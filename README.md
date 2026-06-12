@@ -10,11 +10,10 @@
 
 - 🎓 B.Sc. Information Technology Graduate (2025) — **9.2 CGPA**
 - 💼 Trainee Intern @ **PROBOX Infotech Pvt. Ltd.**, Mumbai
-- 🚀 Building **[Carevie](https://carevie.in)** — a live, AI-powered personal health management platform
 - 🤖 Passionate about **AI/ML**, **RAG pipelines**, **OCR** and **backend systems**
-- 🌱 Currently deepening my skills in **LLMs**, **Vector Search** and **Cloud Infrastructure**
+- 🌱 Currently deepening my skills in **LLMs**, **Vector Search**
 - 📫 Reach me at **vivek13054@gmail.com**
-- ⚡ Fun fact: I enjoy turning complex health data into clean, useful interfaces
+- ⚡ Fun fact: I enjoy turning complex data into clean, useful interfaces
 
 ---
 
@@ -33,9 +32,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://carevie.in" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Carevie.in-1A6B6B?style=for-the-badge&logoColor=white" alt="Carevie"/>
-  </a>
 </p>
 
 ---
